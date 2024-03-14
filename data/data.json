@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "nom": "Dupont",
+        "prenom": "Jean",
+        "email": "jean.dupont@example.com",
+        "telephone": "0123456720"
+    },
+    {
+        "id": 2,
+        "nom": "Martin",
+        "prenom": "Sophie",
+        "email": "sophie.martin@example.com",
+        "telephone": "0198765432"
+    },
+    {
+        "id": 3,
+        "nom": "Garcia",
+        "prenom": "Luis",
+        "email": "luis.garcia@example.com",
+        "telephone": "0112233445"
+    },
+    {
+        "id": 4,
+        "nom": "Chang",
+        "prenom": "Wei",
+        "email": "wei.chang@example.com",
+        "telephone": "0144756398"
+    },
+    {
+        "id": 5,
+        "nom": "Kowalski",
+        "prenom": "Anna",
+        "email": "anna.kowalski@example.com",
+        "telephone": "0165432189"
+    },
+    {
+        "id": 6,
+        "nom": "Smith",
+        "prenom": "John",
+        "email": "john.smith@example.com",
+        "telephone": "0178945612"
+    }
+]
